@@ -1,6 +1,3 @@
-burp suite
-sqlmap
-Metasploit
-Hydra
-wireshark
-tcpdump
+www.google.com
+www.apple.com
+www.facebook.com
