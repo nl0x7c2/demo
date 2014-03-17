@@ -1,3 +1,6 @@
-Hello World!
-Hello Javascript!
-Hello Nodejs!
+burp suite
+sqlmap
+Metasploit
+Hydra
+wireshark
+tcpdump
